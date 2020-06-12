@@ -1,4 +1,4 @@
-# Angular Parking-Garage
+# Angular Parking Garage
 
 A example app using Angular components to search for parking garages in the Netherlands.
 
@@ -7,7 +7,7 @@ A example app using Angular components to search for parking garages in the Neth
 In this project Angular cli is installed as dependency of npm.
 To create a new app run `"npx ng new my-app-name"` with default settings.
 Then a new folder will appear with a skeleton Vue app.
-Go to the folder `"cd my-app-name"` and run the app with `"npm start"`,
+Go to the folder `"cd my-app-name"` and run the app with `"npm start"`.
 You can also create components with `npx ng generate component my-component-name`
 
 ## Components
