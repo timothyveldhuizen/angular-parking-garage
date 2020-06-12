@@ -1,0 +1,22 @@
+{
+  "name": "angular-parking-garage",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothyveldhuizen/angular-parking-garage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timothyveldhuizen/angular-parking-garage/issues"
+  },
+  "homepage": "https://github.com/timothyveldhuizen/angular-parking-garage#readme",
+  "dependencies": {
+    "@angular/cli": "^9.1.8"
+  }
+}
