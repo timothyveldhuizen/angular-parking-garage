@@ -16,7 +16,7 @@
     "url": "https://github.com/timothyveldhuizen/angular-parking-garage/issues"
   },
   "homepage": "https://github.com/timothyveldhuizen/angular-parking-garage#readme",
-  "dependencies": {
-    "@angular/cli": "^9.1.8"
+  "devDependencies": {
+    "@angular/cli": "~10.2.3"
   }
 }
